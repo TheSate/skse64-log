@@ -1,0 +1,518 @@
+SKSE64 runtime: initialize (version = 2.0.12 010503E0 01D4A29CB26C2E85, os = 6.2 (9200))
+imagebase = 00007FF720070000
+reloc mgr imagebase = 00007FF720070000
+config path = D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\skse.ini
+plugin directory = D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\TKPlugin.dll
+registering plugin listener for SKSE at 1 of 2
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\TKPlugin.dll (00000001 TKPlugin 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\skee64.dll
+registering plugin listener for SKSE at 2 of 3
+registering plugin listener for (null) at 2 of 3
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\skee64.dll (00000001 skee 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\QuickLootRE.dll
+registering plugin listener for SKSE at 3 of 4
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\QuickLootRE.dll (00000001 QuickLootRE 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\PassiveWeaponEnchantmentRecharging.dll
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\PassiveWeaponEnchantmentRecharging.dll (00000001 Passive Weapon Enchantment Recharging 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\PapyrusUtil.dll
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\PapyrusUtil.dll (00000001 papyrusutil plugin 00000002) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\JContainers64.dll
+registering plugin listener for SKSE at 6 of 7
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\JContainers64.dll (00000001 JContainers64 00000004) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\HookShareSSE.dll
+registering plugin listener for SKSE at 7 of 8
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\HookShareSSE.dll (00000001 HookShareSSE 00000003) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\HomingMissileSE.dll
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\HomingMissileSE.dll (00000001 HomingMissileSE plugin 00000001) reported as incompatible during query
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\hdtSSEPhysics.dll
+registering plugin listener for SKSE at 8 of 9
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\hdtSSEPhysics.dll (00000001 hdtSSEPhysics 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\hdtSSEFramework.dll
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\hdtSSEFramework.dll (00000001 hdtSSEFramework 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\EngineFixes64.dll
+registering plugin listener for SKSE at 10 of 11
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\EngineFixes64.dll (00000001 EngineFixes64 plugin 00000001) loaded correctly
+checking plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\AddItemMenuSE.dll
+registering plugin listener for SKSE at 11 of 12
+plugin D:\Steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\\AddItemMenuSE.dll (00000001 AddItemMenuSE 00000001) loaded correctly
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 1
+sending message type 0 to plugin 2
+sending message type 0 to plugin 3
+sending message type 0 to plugin 6
+sending message type 0 to plugin 7
+sending message type 0 to plugin 8
+sending message type 0 to plugin 10
+sending message type 0 to plugin 11
+dispatched message.
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 1
+sending message type 1 to plugin 2
+sending message type 1 to plugin 3
+registering plugin listener for HookShareSSE at 3 of 12
+sending message type 1 to plugin 6
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 2
+dispatched message.
+sending message type 1 to plugin 7
+sending message type 1 to plugin 8
+sending message type 1 to plugin 10
+sending message type 1 to plugin 11
+dispatched message.
+init complete
+hooked dinput
+dispatch message (6) to plugin listeners
+sending message type 6 to plugin 1
+sending message type 6 to plugin 2
+sending message type 6 to plugin 3
+sending message type 6 to plugin 6
+sending message type 6 to plugin 7
+sending message type 6 to plugin 8
+sending message type 6 to plugin 10
+sending message type 6 to plugin 11
+dispatched message.
+Reading translations from Interface\Translations\SkyUI_SE_RUSSIAN.txt...
+Reading translations from Interface\Translations\RaceMenu_RUSSIAN.txt...
+Reading translations from Interface\Translations\TKDodge_RUSSIAN.txt...
+Reading translations from Interface\Translations\PC Head Tracking - MCM_RUSSIAN.txt...
+Reading translations from Interface\Translations\AddItemMenuSE_RUSSIAN.txt...
+Reading translations from Interface\Translations\QuickLight_RUSSIAN.txt...
+Reading translations from Interface\Translations\XPMSE_RUSSIAN.txt...
+Reading translations from Interface\Translations\AIMFIX_RUSSIAN.txt...
+dispatch message (8) to plugin listeners
+sending message type 8 to plugin 1
+sending message type 8 to plugin 2
+sending message type 8 to plugin 3
+sending message type 8 to plugin 6
+sending message type 8 to plugin 7
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 3
+dispatched message.
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 3
+dispatched message.
+sending message type 8 to plugin 8
+sending message type 8 to plugin 10
+sending message type 8 to plugin 11
+dispatched message.
+dispatch message (7) to plugin listeners
+sending message type 7 to plugin 1
+sending message type 7 to plugin 2
+sending message type 7 to plugin 3
+sending message type 7 to plugin 6
+sending message type 7 to plugin 7
+sending message type 7 to plugin 8
+sending message type 7 to plugin 10
+sending message type 7 to plugin 11
+dispatched message.
+WidgetLoader.as: setRootPath(a_path = )
+WidgetLoader.as: loadWidget(a_widgetID = 0, a_widgetSource = skyui/activeeffects.swf)
+save name is Save1_1175D12E_1_5361746520746865205374727567676C6572_AbandonedPrison01_000003_20190102131557_1_1
+full save path: C:\Users\Sate\Documents\My Games\Skyrim Special Edition\Saves\\Save1_1175D12E_1_5361746520746865205374727567676C6572_AbandonedPrison01_000003_20190102131557_1_1.skse
+dispatch message (4) to plugin listeners
+sending message type 4 to plugin 1
+sending message type 4 to plugin 2
+sending message type 4 to plugin 3
+sending message type 4 to plugin 6
+sending message type 4 to plugin 7
+sending message type 4 to plugin 8
+sending message type 4 to plugin 10
+sending message type 4 to plugin 11
+dispatched message.
+creating co-save
+Saving mod list:
+	(0)	Skyrim.esm
+	(1)	Update.esm
+	(2)	Dawnguard.esm
+	(3)	HearthFires.esm
+	(4)	Dragonborn.esm
+	(5)	RSkyrimChildren.esm
+	(6)	Unofficial Skyrim Special Edition Patch.esp
+	(7)	BSAssets.esm
+	(8)	BSHeartland.esm
+	(9)	MajesticMountains_Landscape.esm
+	(10)	DynDOLOD.esm
+	(11)	BS_DLC_patch.esp
+	(12)	SkyUI_SE.esp
+	(13)	SimplyBiggerTreesSE.esp
+	(14)	Immersive Wenches.esp
+	(15)	RelightingSkyrim_SSE.esp
+	(16)	Reverb and Ambiance Overhaul - Skyrim.esp
+	(17)	dD - Enhanced Blood Main.esp
+	(18)	Cutting Room Floor.esp
+	(19)	Weapons Armor Clothing & Clutter Fixes.esp
+	(20)	WACCF_Armor and Clothing Extension.esp
+	(21)	MoonAndStar_MAS.esp
+	(22)	SMIM-SE-Merged-All.esp
+	(23)	WGT.esp
+	(24)	MajesticMountains.esp
+	(25)	TrueStormsSE.esp
+	(26)	RaceMenu.esp
+	(27)	RaceMenuPlugin.esp
+	(28)	SOSRaceMenu.esp
+	(29)	FNIS.esp
+	(30)	TKDodge.esp
+	(31)	Improved Eyes Skyrim.esp
+	(32)	NB-Scars.esp
+	(33)	VioLens SE.esp
+	(34)	Relationship Dialogue Overhaul.esp
+	(35)	Obsidian Weathers.esp
+	(36)	IcePenguinWorldMap.esp
+	(37)	Blues Skyrim.esp
+	(38)	WICO - Immersive People.esp
+	(39)	Footprints.esp
+	(40)	DustEffectsSSE.esp
+	(41)	PassiveWeaponEnchantmentRecharging.esp
+	(42)	RavenOnMyShoulder.esp
+	(43)	RDO - CRF + USSEP Patch.esp
+	(44)	PC Head Tracking - MCM.esp
+	(45)	PC Head Tracking - Patch.esp
+	(46)	RSChildren.esp
+	(47)	NewArmoury.esp
+	(48)	Weathered Road Signs.esp
+	(49)	Artifact Disenchanting.esp
+	(50)	MajesticMountains_Moss.esp
+	(51)	The Ruins.esp
+	(52)	Point The Way.esp
+	(53)	EMCompViljaSkyrim.esp
+	(54)	TheChoiceIsYours.esp
+	(55)	Dwarfsphere.esp
+	(56)	Run For Your Lives.esp
+	(57)	Inigo.esp
+	(58)	Immersive Patrols II.esp
+	(59)	Convenient Horses.esp
+	(60)	Skyrim Horses Renewal.esp
+	(61)	Darkend.esp
+	(62)	ForgottenCity.esp
+	(63)	The Paarthurnax Dilemma.esp
+	(64)	JaxonzBlinkTeleport2.esp
+	(65)	Celebrimbor .esp
+	(66)	budy_companion_dog.esp
+	(67)	LeftHandRings-1stPersonView.esp
+	(68)	LeftHandRings.esp
+	(69)	Beards.esp
+	(70)	SVBeardsSE.esp
+	(71)	ShowRaceMenuAlternative.esp
+	(72)	UIExtensions.esp
+	(73)	AddItemMenuSE.esp
+	(74)	QuickLight.esp
+	(75)	WICO - Immersive Character.esp
+	(76)	WICO - Immersive Dawnguard.esp
+	(77)	WICO - Wild Hunt Gears.esp
+	(78)	XPMSE.esp
+	(79)	Artifact Disenchanting - Dawnguard.esp
+	(80)	Artifact Disenchanting - Dragonborn.esp
+	(81)	Visible Favorited Gear.esp
+	(82)	ORM-Arvak.esp
+	(83)	Cathedral Concept - Lightweight Grass Overhaul.esp
+	(84)	SeeEnchs.esp
+	(85)	Immersive Speechcraft.esp
+	(86)	AIMFIX.esp
+	(87)	ESO Altmer Armor by NewrMind43.esp
+	(88)	CailinFollower.esp
+	(89)	EnneadCloaks.esp
+	(90)	Smilodon - Combat of Skyrim.esp
+	(91)	Lucien.esp
+	(92)	Zikoru Swords.esp
+	(93)	Bijin_AIO-SV 2018.esp
+	(94)	Ecotone Dual Sheath.esp
+	(95)	Ecotone Dual Sheath Patch.esp
+	(96)	Ordinator - Perks of Skyrim.esp
+	(97)	Alternate Start - Live Another Life.esp
+	(98)	ELE_SSE.esp
+	(99)	RAO - ELE - Alternate Start Patch.esp
+	(100)	RealisticWaterTwo.esp
+	(101)	Bashed Patch, 0.esp
+	(102)	DynDOLOD.esp
+Saving light mod list:
+	(0)	Morningstar - Minimalistic Races of Skyrim.esl
+	(1)	Yggdrasil Music.esp
+	(2)	Qw_BeyondSkyrimBruma_USSEP Hotfix Patch.esp
+	(3)	BB Pack by Team TAL.esp
+	(4)	Qw_RelightingSkyrim_CRF Patch.esp
+	(5)	Qw_ELE_CRF Patch.esp
+	(6)	Qw_ELE_RW2 Patch.esp
+Saving menu open/close event registrations...
+Saving key input event registrations...
+Saving control input event registrations...
+Saving mod callback event registrations...
+Saving crosshair ref event registrations...
+Saving camera event registrations...
+Saving actor action event registrations...
+Saving NiNode update event registrations...
+Saving SKSEPersistentObjectStorage data...
+Saving SKSEDelayFunctorManager data...
+cleared save path
+save name is Save2_1175D12E_1_5361746520746865205374727567676C6572_FalkreathDeadMansDrink_000005_20190102131758_1_1
+full save path: C:\Users\Sate\Documents\My Games\Skyrim Special Edition\Saves\\Save2_1175D12E_1_5361746520746865205374727567676C6572_FalkreathDeadMansDrink_000005_20190102131758_1_1.skse
+dispatch message (4) to plugin listeners
+sending message type 4 to plugin 1
+sending message type 4 to plugin 2
+sending message type 4 to plugin 3
+sending message type 4 to plugin 6
+sending message type 4 to plugin 7
+sending message type 4 to plugin 8
+sending message type 4 to plugin 10
+sending message type 4 to plugin 11
+dispatched message.
+creating co-save
+Saving mod list:
+	(0)	Skyrim.esm
+	(1)	Update.esm
+	(2)	Dawnguard.esm
+	(3)	HearthFires.esm
+	(4)	Dragonborn.esm
+	(5)	RSkyrimChildren.esm
+	(6)	Unofficial Skyrim Special Edition Patch.esp
+	(7)	BSAssets.esm
+	(8)	BSHeartland.esm
+	(9)	MajesticMountains_Landscape.esm
+	(10)	DynDOLOD.esm
+	(11)	BS_DLC_patch.esp
+	(12)	SkyUI_SE.esp
+	(13)	SimplyBiggerTreesSE.esp
+	(14)	Immersive Wenches.esp
+	(15)	RelightingSkyrim_SSE.esp
+	(16)	Reverb and Ambiance Overhaul - Skyrim.esp
+	(17)	dD - Enhanced Blood Main.esp
+	(18)	Cutting Room Floor.esp
+	(19)	Weapons Armor Clothing & Clutter Fixes.esp
+	(20)	WACCF_Armor and Clothing Extension.esp
+	(21)	MoonAndStar_MAS.esp
+	(22)	SMIM-SE-Merged-All.esp
+	(23)	WGT.esp
+	(24)	MajesticMountains.esp
+	(25)	TrueStormsSE.esp
+	(26)	RaceMenu.esp
+	(27)	RaceMenuPlugin.esp
+	(28)	SOSRaceMenu.esp
+	(29)	FNIS.esp
+	(30)	TKDodge.esp
+	(31)	Improved Eyes Skyrim.esp
+	(32)	NB-Scars.esp
+	(33)	VioLens SE.esp
+	(34)	Relationship Dialogue Overhaul.esp
+	(35)	Obsidian Weathers.esp
+	(36)	IcePenguinWorldMap.esp
+	(37)	Blues Skyrim.esp
+	(38)	WICO - Immersive People.esp
+	(39)	Footprints.esp
+	(40)	DustEffectsSSE.esp
+	(41)	PassiveWeaponEnchantmentRecharging.esp
+	(42)	RavenOnMyShoulder.esp
+	(43)	RDO - CRF + USSEP Patch.esp
+	(44)	PC Head Tracking - MCM.esp
+	(45)	PC Head Tracking - Patch.esp
+	(46)	RSChildren.esp
+	(47)	NewArmoury.esp
+	(48)	Weathered Road Signs.esp
+	(49)	Artifact Disenchanting.esp
+	(50)	MajesticMountains_Moss.esp
+	(51)	The Ruins.esp
+	(52)	Point The Way.esp
+	(53)	EMCompViljaSkyrim.esp
+	(54)	TheChoiceIsYours.esp
+	(55)	Dwarfsphere.esp
+	(56)	Run For Your Lives.esp
+	(57)	Inigo.esp
+	(58)	Immersive Patrols II.esp
+	(59)	Convenient Horses.esp
+	(60)	Skyrim Horses Renewal.esp
+	(61)	Darkend.esp
+	(62)	ForgottenCity.esp
+	(63)	The Paarthurnax Dilemma.esp
+	(64)	JaxonzBlinkTeleport2.esp
+	(65)	Celebrimbor .esp
+	(66)	budy_companion_dog.esp
+	(67)	LeftHandRings-1stPersonView.esp
+	(68)	LeftHandRings.esp
+	(69)	Beards.esp
+	(70)	SVBeardsSE.esp
+	(71)	ShowRaceMenuAlternative.esp
+	(72)	UIExtensions.esp
+	(73)	AddItemMenuSE.esp
+	(74)	QuickLight.esp
+	(75)	WICO - Immersive Character.esp
+	(76)	WICO - Immersive Dawnguard.esp
+	(77)	WICO - Wild Hunt Gears.esp
+	(78)	XPMSE.esp
+	(79)	Artifact Disenchanting - Dawnguard.esp
+	(80)	Artifact Disenchanting - Dragonborn.esp
+	(81)	Visible Favorited Gear.esp
+	(82)	ORM-Arvak.esp
+	(83)	Cathedral Concept - Lightweight Grass Overhaul.esp
+	(84)	SeeEnchs.esp
+	(85)	Immersive Speechcraft.esp
+	(86)	AIMFIX.esp
+	(87)	ESO Altmer Armor by NewrMind43.esp
+	(88)	CailinFollower.esp
+	(89)	EnneadCloaks.esp
+	(90)	Smilodon - Combat of Skyrim.esp
+	(91)	Lucien.esp
+	(92)	Zikoru Swords.esp
+	(93)	Bijin_AIO-SV 2018.esp
+	(94)	Ecotone Dual Sheath.esp
+	(95)	Ecotone Dual Sheath Patch.esp
+	(96)	Ordinator - Perks of Skyrim.esp
+	(97)	Alternate Start - Live Another Life.esp
+	(98)	ELE_SSE.esp
+	(99)	RAO - ELE - Alternate Start Patch.esp
+	(100)	RealisticWaterTwo.esp
+	(101)	Bashed Patch, 0.esp
+	(102)	DynDOLOD.esp
+Saving light mod list:
+	(0)	Morningstar - Minimalistic Races of Skyrim.esl
+	(1)	Yggdrasil Music.esp
+	(2)	Qw_BeyondSkyrimBruma_USSEP Hotfix Patch.esp
+	(3)	BB Pack by Team TAL.esp
+	(4)	Qw_RelightingSkyrim_CRF Patch.esp
+	(5)	Qw_ELE_CRF Patch.esp
+	(6)	Qw_ELE_RW2 Patch.esp
+Saving menu open/close event registrations...
+Saving key input event registrations...
+Saving control input event registrations...
+Saving mod callback event registrations...
+Saving crosshair ref event registrations...
+Saving camera event registrations...
+Saving actor action event registrations...
+Saving NiNode update event registrations...
+Saving SKSEPersistentObjectStorage data...
+Saving SKSEDelayFunctorManager data...
+cleared save path
+save name is Autosave1_1175D12E_1_5361746520746865205374727567676C6572_Tamriel_000005_20190102131836_1_1
+full save path: C:\Users\Sate\Documents\My Games\Skyrim Special Edition\Saves\\Autosave1_1175D12E_1_5361746520746865205374727567676C6572_Tamriel_000005_20190102131836_1_1.skse
+dispatch message (4) to plugin listeners
+sending message type 4 to plugin 1
+sending message type 4 to plugin 2
+sending message type 4 to plugin 3
+sending message type 4 to plugin 6
+sending message type 4 to plugin 7
+sending message type 4 to plugin 8
+sending message type 4 to plugin 10
+sending message type 4 to plugin 11
+dispatched message.
+creating co-save
+Saving mod list:
+	(0)	Skyrim.esm
+	(1)	Update.esm
+	(2)	Dawnguard.esm
+	(3)	HearthFires.esm
+	(4)	Dragonborn.esm
+	(5)	RSkyrimChildren.esm
+	(6)	Unofficial Skyrim Special Edition Patch.esp
+	(7)	BSAssets.esm
+	(8)	BSHeartland.esm
+	(9)	MajesticMountains_Landscape.esm
+	(10)	DynDOLOD.esm
+	(11)	BS_DLC_patch.esp
+	(12)	SkyUI_SE.esp
+	(13)	SimplyBiggerTreesSE.esp
+	(14)	Immersive Wenches.esp
+	(15)	RelightingSkyrim_SSE.esp
+	(16)	Reverb and Ambiance Overhaul - Skyrim.esp
+	(17)	dD - Enhanced Blood Main.esp
+	(18)	Cutting Room Floor.esp
+	(19)	Weapons Armor Clothing & Clutter Fixes.esp
+	(20)	WACCF_Armor and Clothing Extension.esp
+	(21)	MoonAndStar_MAS.esp
+	(22)	SMIM-SE-Merged-All.esp
+	(23)	WGT.esp
+	(24)	MajesticMountains.esp
+	(25)	TrueStormsSE.esp
+	(26)	RaceMenu.esp
+	(27)	RaceMenuPlugin.esp
+	(28)	SOSRaceMenu.esp
+	(29)	FNIS.esp
+	(30)	TKDodge.esp
+	(31)	Improved Eyes Skyrim.esp
+	(32)	NB-Scars.esp
+	(33)	VioLens SE.esp
+	(34)	Relationship Dialogue Overhaul.esp
+	(35)	Obsidian Weathers.esp
+	(36)	IcePenguinWorldMap.esp
+	(37)	Blues Skyrim.esp
+	(38)	WICO - Immersive People.esp
+	(39)	Footprints.esp
+	(40)	DustEffectsSSE.esp
+	(41)	PassiveWeaponEnchantmentRecharging.esp
+	(42)	RavenOnMyShoulder.esp
+	(43)	RDO - CRF + USSEP Patch.esp
+	(44)	PC Head Tracking - MCM.esp
+	(45)	PC Head Tracking - Patch.esp
+	(46)	RSChildren.esp
+	(47)	NewArmoury.esp
+	(48)	Weathered Road Signs.esp
+	(49)	Artifact Disenchanting.esp
+	(50)	MajesticMountains_Moss.esp
+	(51)	The Ruins.esp
+	(52)	Point The Way.esp
+	(53)	EMCompViljaSkyrim.esp
+	(54)	TheChoiceIsYours.esp
+	(55)	Dwarfsphere.esp
+	(56)	Run For Your Lives.esp
+	(57)	Inigo.esp
+	(58)	Immersive Patrols II.esp
+	(59)	Convenient Horses.esp
+	(60)	Skyrim Horses Renewal.esp
+	(61)	Darkend.esp
+	(62)	ForgottenCity.esp
+	(63)	The Paarthurnax Dilemma.esp
+	(64)	JaxonzBlinkTeleport2.esp
+	(65)	Celebrimbor .esp
+	(66)	budy_companion_dog.esp
+	(67)	LeftHandRings-1stPersonView.esp
+	(68)	LeftHandRings.esp
+	(69)	Beards.esp
+	(70)	SVBeardsSE.esp
+	(71)	ShowRaceMenuAlternative.esp
+	(72)	UIExtensions.esp
+	(73)	AddItemMenuSE.esp
+	(74)	QuickLight.esp
+	(75)	WICO - Immersive Character.esp
+	(76)	WICO - Immersive Dawnguard.esp
+	(77)	WICO - Wild Hunt Gears.esp
+	(78)	XPMSE.esp
+	(79)	Artifact Disenchanting - Dawnguard.esp
+	(80)	Artifact Disenchanting - Dragonborn.esp
+	(81)	Visible Favorited Gear.esp
+	(82)	ORM-Arvak.esp
+	(83)	Cathedral Concept - Lightweight Grass Overhaul.esp
+	(84)	SeeEnchs.esp
+	(85)	Immersive Speechcraft.esp
+	(86)	AIMFIX.esp
+	(87)	ESO Altmer Armor by NewrMind43.esp
+	(88)	CailinFollower.esp
+	(89)	EnneadCloaks.esp
+	(90)	Smilodon - Combat of Skyrim.esp
+	(91)	Lucien.esp
+	(92)	Zikoru Swords.esp
+	(93)	Bijin_AIO-SV 2018.esp
+	(94)	Ecotone Dual Sheath.esp
+	(95)	Ecotone Dual Sheath Patch.esp
+	(96)	Ordinator - Perks of Skyrim.esp
+	(97)	Alternate Start - Live Another Life.esp
+	(98)	ELE_SSE.esp
+	(99)	RAO - ELE - Alternate Start Patch.esp
+	(100)	RealisticWaterTwo.esp
+	(101)	Bashed Patch, 0.esp
+	(102)	DynDOLOD.esp
+Saving light mod list:
+	(0)	Morningstar - Minimalistic Races of Skyrim.esl
+	(1)	Yggdrasil Music.esp
+	(2)	Qw_BeyondSkyrimBruma_USSEP Hotfix Patch.esp
+	(3)	BB Pack by Team TAL.esp
+	(4)	Qw_RelightingSkyrim_CRF Patch.esp
+	(5)	Qw_ELE_CRF Patch.esp
+	(6)	Qw_ELE_RW2 Patch.esp
+Saving menu open/close event registrations...
+Saving key input event registrations...
+Saving control input event registrations...
+Saving mod callback event registrations...
+Saving crosshair ref event registrations...
+Saving camera event registrations...
+Saving actor action event registrations...
+Saving NiNode update event registrations...
+Saving SKSEPersistentObjectStorage data...
+Saving SKSEDelayFunctorManager data...
+cleared save path
